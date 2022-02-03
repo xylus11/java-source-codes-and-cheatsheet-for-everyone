@@ -1,0 +1,12 @@
+1.public means class can be accesed from anywhere 
+2.class is collection of methods 
+3.name of the file should be the name of the public class
+4.In Java programs, the point from
+ where the program starts its execution or simply the 
+ entry point of Java programs is the main() method.
+5.Static methods are the method which 
+invokes without creating the objects, so
+do not need any object to call the main() method.
+6. Void keyword acknowledges the compiler 
+that main()
+ method does not return any value.
